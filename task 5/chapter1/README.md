@@ -20,7 +20,7 @@
   str()-coverts a value to a string
 10)The expresion given in the question thaat causes an error because u r trying to concatenate 
   a string with an interger directly ,to fix it conver the interger to a string before concatination
-  'I have eaten'+str(99)+'burritos.'
+  'I have eaten'+str(99)+'burritos.
 
 
 
