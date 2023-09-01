@@ -20,4 +20,9 @@
 13)The difference between lists and tuples is 
     ->lists are mutableand elements can be modifired after creation 
     ->tuples are immutable and elements cannot be changed after the creation
- 14)   
+ 14)(42,)(The trailing comma is mandatory)
+ 15)we can get by the tuple() and list() functions,respectively
+ 16)They contain references to list values.
+ 17)The copy.copy() function will do a shallow copy of a list, while the copy.deepcopy() 
+    function will do a deep copy of a list. That is, only copy.deepcopy() will duplicate any 
+    lists inside the list.
